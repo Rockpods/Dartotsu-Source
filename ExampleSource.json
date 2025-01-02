@@ -1,0 +1,61 @@
+{
+    "name": "Unofficial Dartotsu",
+    "subtitle": "Unofficial Dartotsu source ",
+    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+    "website": "https://example.com",
+    "tintColor": "#4185A9",
+    "featuredApps": [
+        "com.example.Dartotsu",
+    ],
+    "apps": [
+        {
+            "name": "Dartotsu",
+            "bundleIdentifier": "com.example.Dartotsu",
+            "developerName": "aayush2622",
+            "subtitle": "An awesome app.",
+            "localizedDescription": "This is Dartotsu.",
+            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "tintColor": "#5CA399",
+				{
+                    "imageURL": "https://i.imgur.com/5o3Y9Jb.gif",
+                    "width": 200,
+                    "height": 200
+                }
+            ],
+            "versions": [
+                {
+                    "version": "0.0.1",
+                    "date": "2022-05-01T09:00:00-08:00",
+                    "size": 20000000,
+                    "downloadURL": "https://litter.catbox.moe/okojcu.ipa",
+                    "localizedDescription": "New features and bug fixes.",
+                    "minOSVersion": "12.0"
+                }
+            ],
+            }
+        },
+    "news": [
+        {
+            "title": "New iOS Build",
+            "identifier": "new_build",
+            "caption": "It finally happened",
+            "date": "2023-03-15",
+            "tintColor": "#5CA399",
+            "imageURL": "https://example.com/new_feature_image.png",
+            "notify": true,
+            "url": "https://example.com/new_feature_details"
+        },
+        {
+            "title": "App Update Available",
+            "identifier": "app_update",
+            "caption": "An update is available for My Example App.",
+            "date": "2023-03-10T10:00:00-07:00",
+            "tintColor": "#3660A2",
+            "imageURL": "https://example.com/app_update_image.png",
+            "notify": false,
+            "appID": "com.example.myapp"
+        }
+    ]
+}
