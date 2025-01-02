@@ -1,17 +1,18 @@
 {
-  "name": "Unofficial Dantotsu",
-  "sourceURL": "https://raw.githubusercontent.com/Rockpods/Dartotsu-Source/refs/heads/main/ExampleSource.json",
-  "iconURL": "https://i.imgur.com/5o3Y9Jb.gif",
-  "subtitle": "An attempt at a Dantotsu source.!",
-  "apps": [
-    {
-      "name": "Dantotsu",
-      "bundleIdentifier": "ani.aayush262.dartotsu",
-      "developerName": "aayush262",
-      "iconURL": "https://i.imgur.com/5o3Y9Jb.gif",
-      "version": "0.0.1",
-      "downloadURL": "https://litter.catbox.moe/okojcu.ipa",
-      "localizedDescription": "It's just Dantotsu.",
-      "versionDate": "2024-12-28"
-    }
+	"name": "Unofficial Dantotsu",
+	"sourceURL": "https://raw.githubusercontent.com/Rockpods/Dartotsu-Source/refs/heads/main/ExampleSource.json",
+	"iconURL": "https://i.imgur.com/5o3Y9Jb.gif",
+	"subtitle": "An attempt at a Dantotsu source.!",
+	"apps": [
+		{
+			"name": "Dantotsu",
+			"bundleIdentifier": "ani.aayush262.dartotsu",
+			"developerName": "aayush262",
+			"iconURL": "https://i.imgur.com/5o3Y9Jb.gif",
+			"version": "0.0.1",
+			"downloadURL": "https://litter.catbox.moe/okojcu.ipa",
+			"localizedDescription": "It's just Dantotsu.",
+			"versionDate": "2024-12-28"
+		}
+	]
 }
